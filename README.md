@@ -17,13 +17,13 @@ android基础知识的汇总
 
 * AndroidStudio
 
-	*快捷键
+	* 快捷键
 	
 		1.[mac下android studio 常用快捷键](http://www.jianshu.com/p/55e262b272b0)
 		
 		2.[Android Studio Mac版快捷键](http://blog.csdn.net/swust_chenpeng/article/details/46663749)
 		
-	*使用技巧
+	* 使用技巧
 	
 ## android
 * android控件
