@@ -7,6 +7,7 @@ android基础知识的汇总
 * 语法
   1.[Markdown 语法说明](http://www.appinn.com/markdown/index.html)
   2.[ GitHub上README.md教程](http://blog.csdn.net/kaitiren/article/details/38513715)
+  
 ## 开发工具
 * AndroidStudio
 	*.快捷键
