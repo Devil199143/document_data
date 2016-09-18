@@ -1,3 +1,9 @@
+# 环境搭建整理
+==========================
+1. svn安装
+
+ 
+
 # 线上资料整理
 ==========================  
 ## 常用网站
@@ -18,7 +24,7 @@
    
    8.  [牛课网](http://www.nowcoder.com/)
    
-   9.  [csdn](http://www.cnblogs.com/tianmanyi/p/5509404.html)
+   9.  [csdn](http://csdn.net)
    
    10. [干货集中营](http://gank.io/)
    
@@ -69,6 +75,8 @@
   2.  [android开发各种相关干货](http://blog.csdn.net/aishang5wpj/article/details/50130573)
   
   3.  [干货集中营共享android端知识点综合整理](http://blog.csdn.net/lupengfei1009/article/details/50826442)
+  
+  
   
 
 
